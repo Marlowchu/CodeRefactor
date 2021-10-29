@@ -1,1 +1,1 @@
-In this assignment I changed the "nav" html elements to more appropriate elements.
+This project is about updating the code to follow accessibility standards. I was provided exixting code and my task was to clean the code up by adding HTML elements, comments, and alt image attributes.
